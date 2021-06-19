@@ -5,7 +5,7 @@ A web-based platform for college students to help them throughout their careers.
 ### Frontend
   - HTML
   - CSS
-  - Javascript
+  - JavaScript
   - Bootstrap
 ### Backend
   - PHP
